@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Sahil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-![Twitter header - 1](https://user-images.githubusercontent.com/83442423/147804830-fcec15a4-43a2-4177-89ea-f1a26e6e641b.png)
+![CODE IS LAW](https://user-images.githubusercontent.com/83442423/161376313-9fb4d86d-b1e1-48cf-ab3b-0e8c0df63f56.png)
 
 
 ### A few things about me
 
-- 💻 I'm web developer, designer, content creator and a poet.
-- 📍 I'm from India.
-- 🕸️ I am passionate about building websites with Next.js and Tailwind CSS.
+- 💻 I'm a Blockchain Developer, Designer, Content Creator and a Poet.
+- 🕸️ I am passionate about building decentralised apps.
 - 🤝 I like to meet new people.
 - 🏏 I love to play Cricket. I am a national level Cricket player.
 - 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@SahilAujla). If you want to read my blogs, click [here](https://blog.sahilaujla.com)
