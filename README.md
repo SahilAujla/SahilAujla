@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 
 ### A few things about me
 
-- 💻 I'm a Blockchain Developer, Designer, Content Creator and a Poet.
-- 🕸️ I am passionate about building decentralised apps.
+- 💻 I'm a Web3 Developer and Content Creator based in Toronto.
+- 🕸️ I am passionate about smart contract development/auditing and MEV.
 - 🤝 I like to meet new people.
-- 🏏 I love to play Cricket. I am a national level Cricket player.
-- 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@SahilAujla). If you want to read my blogs, click [here](https://blog.sahilaujla.com)
 
 ## 📫 How to reach me?
 
