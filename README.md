@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### A few things about me
 
-- 💻 I'm a Web3 Developer and Content Creator based in Toronto.
+- 💻 I'm a Web3 Developer and Content Creator based in Toronto 🇨🇦🍁.
 - 🕸️ I am passionate about smart contract development/auditing and MEV.
 - 🤝 I like to meet new people.
 
