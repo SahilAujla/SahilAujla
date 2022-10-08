@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me?
 
-Feel free to reach me out on [Twitter](https://twitter.com/SahilAujla15), [Linkedin](https://www.linkedin.com/in/sahil-aujla-826ab7211/) or [Instagram](https://www.instagram.com/s_aujla2213)
+Feel free to out on [Twitter](https://twitter.com/SahilAujla15)
 
 ## 📈 GitHub Stats
 <br>
