@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sahil's+GitHub+Profile!)](https://git.io/typing-svg)
-
-<h1 align="center">Hi, I'm Sahil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+### Hi, I'm Sahil.
 
 ![CODE IS LAW](https://user-images.githubusercontent.com/83442423/161376313-9fb4d86d-b1e1-48cf-ab3b-0e8c0df63f56.png)
 
