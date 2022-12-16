@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 ![CODE IS LAW](https://user-images.githubusercontent.com/83442423/161376313-9fb4d86d-b1e1-48cf-ab3b-0e8c0df63f56.png)
 
 
-### A few things about me
+## About
 
 - 💻 My name is Sahil and I'm a Web3 Developer and Content Creator based in Toronto 🇨🇦🍁.
 - ⛓️ I am passionate about smart contract development/auditing and MEV.
 - 🤝 I like to meet new people.
 
-## 📫 How to reach me?
+## 📫 Best way to reach me?
 
 Feel free to out on [Twitter](https://twitter.com/SahilAujla15)
 
