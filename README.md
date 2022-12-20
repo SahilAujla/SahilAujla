@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 📫 Best way to reach me?
 
-Feel free to out on [Twitter](https://twitter.com/SahilAujla15)
+Feel free to reach out on [Twitter](https://twitter.com/SahilAujla15)
 
 ## 📈 GitHub Stats
 <br>
