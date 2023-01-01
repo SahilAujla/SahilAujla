@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![CODE IS LAW](https://user-images.githubusercontent.com/83442423/161376313-9fb4d86d-b1e1-48cf-ab3b-0e8c0df63f56.png)
-
 
 ## About
 
