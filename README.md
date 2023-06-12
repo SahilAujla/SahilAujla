@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## About
-
-- 💻 My name is Sahil and I'm a Web3 Developer and Content Creator based in Toronto 🇨🇦🍁.
-- ⛓️ I am passionate about smart contract development/auditing and MEV.
-- 🤝 I like to meet new people.
+My name is Sahil and I'm a DevRel at [Alchemy](https://alchemy.com/) based in Toronto 🇨🇦🍁.
 
 ## 📫 Best way to reach me?
 
